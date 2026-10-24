@@ -85,6 +85,7 @@ The greater Webpage Custom Styling
 The list item styling
 */
 .list-component-item {
+  margin-top: 1rem;
   padding: 10px;
   border-radius: 7.5px;
   background-color: #1d1d1d;
