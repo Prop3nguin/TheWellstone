@@ -1,12 +1,12 @@
 {
-  "logo": "https://project-incarnatum-prop3nguin.flowershow.me/meta/assets/favicon.png",
+  "logo": "https://thewellstone-prop3nguin.flowershow.me/meta/assets/favicon.png",
   "favicon": "",
-  "title": "The Aetherium",
+  "title": "The Wellstone",
   "nav": {
-    "title": "The Aetherium",
+    "title": "The Wellstone",
     "links": [
       {
-        "href": "https://github.com/Prop3nguin/Project_Incarnatum",
+        "href": "https://github.com/Prop3nguin/TheWellstone",
         "name": "Source"
       }
     ]
@@ -28,7 +28,7 @@
             "name": "Portfolio"
           },
           {
-            "href": "https://project-incarnatum-prop3nguin.flowershow.me/Author",
+            "href": "https://thewellstone-prop3nguin.flowershow.me/Author",
             "name": "Aliases"
           },
           {
