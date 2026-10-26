@@ -3,7 +3,41 @@ title : "Title of Story"
 description : "Sentence or two description of story"
 status : draft
 locations : []
-characters : []
+tags: []
 ---
 
-## 
+## Overview
+
+// Custom area to describe the gist of the story in just a bit more detail. 
+link to other sections of the page that provide more in-depth description of
+a specific topic the reader may not understand.
+
+## Specific Sections
+
+// Explain the topic of the section in as much detail as possible. 
+best to use examples as well.
+
+## All Characters
+
+```list
+from: characters
+view: grid
+where:
+    tags: (Story tag)
+feilds:
+    date: none
+    meta: [tags]
+```
+
+## All locations
+
+```list
+from: places
+view: grid
+where:
+    tags: (Story tag)
+feilds:
+    date: none
+    meta: [tags]
+```
+
