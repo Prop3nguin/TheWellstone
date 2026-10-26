@@ -84,6 +84,9 @@ The greater Webpage Custom Styling
 /*
 The list item styling
 */
+.list-component--grid {
+  align-items: center;
+}
 .list-component-item {
   margin-top: 1rem;
   padding: 10px;
